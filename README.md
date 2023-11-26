@@ -25,4 +25,6 @@
 [![Vidéo de démonstration](https://github.com/nhabiba/JeuIA/issues/3#issue-2011094649) ](https://github.com/nhabiba/JeuIA/issues/3#issue-2011094649)
 ### " curseur pour régler la distance de séparation:"
 [![Vidéo de démonstration](https://github.com/nhabiba/JeuIA/issues/4#issue-2011097104)](https://github.com/nhabiba/JeuIA/issues/4#issue-2011097104)
+### "evade est le comportement inverse de pursuit :"
+[![Vidéo de démonstration](https://github.com/nhabiba/JeuIA/issues/5#issue-2011101705)](https://github.com/nhabiba/JeuIA/issues/5#issue-2011101705)
 
