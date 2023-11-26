@@ -22,4 +22,4 @@
 ### "Formation de véhicules autonomes avec comportement de séparation et réglage de la distance:"
 [![Vidéo de démonstration](https://github.com/nhabiba/JeuIA/issues/2#issue-2011092054) ](https://github.com/nhabiba/JeuIA/issues/2#issue-2011092054)
 ### "Visualisation des zones d'influence des véhicules autonomes pour la formation en peloton:"
-[![Vidéo de démonstration]
+[![Vidéo de démonstration](https://github.com/nhabiba/JeuIA/issues/3#issue-2011094649) ](https://github.com/nhabiba/JeuIA/issues/3#issue-2011094649)
