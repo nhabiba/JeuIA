@@ -20,4 +20,6 @@
 ### "Suivi de leader séquentiel avec arrivée et évitement d'obstacles pour véhicules autonomes :"
 [![Vidéo de démonstration](https://github.com/nhabiba/JeuIA/issues/1#issue-2011085178)](https://github.com/nhabiba/JeuIA/issues/1#issue-2011085178)
 ### "Formation de véhicules autonomes avec comportement de séparation et réglage de la distance:"
-[![Vidéo de démonstration](https://github.com/nhabiba/JeuIA/issues/2#issue-2011092054 ]https://github.com/nhabiba/JeuIA/issues/2#issue-2011092054
+[![Vidéo de démonstration](https://github.com/nhabiba/JeuIA/issues/2#issue-2011092054) ](https://github.com/nhabiba/JeuIA/issues/2#issue-2011092054)
+### "Visualisation des zones d'influence des véhicules autonomes pour la formation en peloton:"
+[![Vidéo de démonstration]
