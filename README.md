@@ -19,3 +19,4 @@
 ## Démonstration :
 ### "Suivi de leader séquentiel avec arrivée et évitement d'obstacles pour véhicules autonomes :"
 (https://github.com/SAMIHA88/Elhajjam_Jeux_AI/issues/5#issue-2011085207)](https://github.com/nhabiba/JeuIA/issues/1#issue-2011085178)
+### "Formation de véhicules autonomes avec comportement de séparation et réglage de la distance:"
