@@ -24,5 +24,5 @@
 ### "Visualisation des zones d'influence des véhicules autonomes pour la formation en peloton:"
 [![Vidéo de démonstration](https://github.com/nhabiba/JeuIA/issues/3#issue-2011094649) ](https://github.com/nhabiba/JeuIA/issues/3#issue-2011094649)
 ### " curseur pour régler la distance de séparation:"
-[![Vidéo de démonstration]
+[![Vidéo de démonstration](https://github.com/nhabiba/JeuIA/issues/4#issue-2011097104)](https://github.com/nhabiba/JeuIA/issues/4#issue-2011097104)
 
